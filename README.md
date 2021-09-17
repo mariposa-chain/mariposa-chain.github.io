@@ -1,7 +1,7 @@
 # mariposa-chain.github.io
 
 
-### atteva network (low capacity testnet network)
+### atteva network (low capacity testnet)
 * networkId :0x29a 
 * monitor: https://monitor-atteva.mariposa.network
 * explorer : https://explorer-atteva.mariposa.network
